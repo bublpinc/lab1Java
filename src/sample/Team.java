@@ -15,9 +15,7 @@ public class Team {
         trainer.qualification = "1";
         this.trainer = trainer;
     }
-//    public void addPlayer(){
-//        this.members[0] = 1;
-//    }
+    public void addPlayer(){}
 }
 
 
